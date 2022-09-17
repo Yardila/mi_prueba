@@ -17,5 +17,4 @@ branch 'master' set up to track 'origin/master'.
 jorge@DESKTOP-SLRUV4H MINGW64 /c/CursoJava/Curso 3/YulyFolder (master)
 $ ls
 JorgeTest.txt
-
 pero no funcionó porque no veo el archivo
